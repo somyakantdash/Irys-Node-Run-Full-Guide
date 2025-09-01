@@ -1,6 +1,6 @@
-# Firestarter Storage Node Run Full Guide (PC Only)
+# Irys Storage CLI Node Run Full Guide (PC Only)
 
-### Offical Docs by Pipe Network - https://docs.irys.xyz/build/d/storage-cli/installation
+### Offical Docs by Irys - https://docs.irys.xyz/build/d/storage-cli/installation
 
 ----
 
