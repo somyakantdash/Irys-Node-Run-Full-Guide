@@ -54,10 +54,11 @@ irys fund 1000000 \
 
 * Take Faucet: [Ethereum_Sepolia_Faucet](https://sepolia-faucet.pk910.de/) :: If u have to do in another chain then take faucet of that network:
 * The fund amount is in `wei`
-* Replace `Private_key` with your actual credential (Without 0x)
+* Replace `Private_key` with your actual one (Without 0x)
 * Replace `RPC_URL` with your selected network [Link](https://sepolia.drpc.org)
 
-<img width="1493" height="316" alt="image" src="https://github.com/user-attachments/assets/a5b83397-9be0-4204-89d9-b1c1fff419a8" />
+<img width="1493" height="316" alt="481816277-a5b83397-9be0-4204-89d9-b1c1fff419a8" src="https://github.com/user-attachments/assets/023bacd8-466b-46b5-be7f-b39b471fce12" />
+
 
 6️⃣ Check Balance 
 
@@ -84,7 +85,7 @@ irys upload FILE_PATH \
 * Replace FILE_PATH with their actual path & `FILE_FORMAT` (JPG,PNG,MP4,MP3)
 * Dont upload any `confidential` file (Wallet keys & personal docs)
 * You can upload any videos or large file too
-* Replace `PRIVATE_KEY` with your Credential
+* Replace `PRIVATE_KEY` with your actual one (Without 0x)
 * Replace `RPC_URL` with your selected Network
 
 <img width="1038" height="211" alt="image" src="https://github.com/user-attachments/assets/a3a29264-ea9e-4872-9b4a-b7bf01a64b35" />
@@ -119,29 +120,8 @@ ls -a
 ## 🔶For Next Day Run This Command
 
 #1 Open WSL and Put this Command 
-```
-cd pipe
-```
-- Follow 1️⃣2️⃣ Number Point
-```
-pipe  swap-sol-for-pipe <AMOUNT_SOL>
-```
-- Follow 1️⃣3️⃣ Number Point
-```
-pipe upload-file ~/<FILE_PATH> <FILE_NAME>
-```
-- Follow 1️⃣4️⃣ Number Point
-```
-pipe create-public-link <FILE_NAME>
-```
 
-## Delete Pipe Firestarter Storage Node
-```
-cargo uninstall pipe
-```
-```
-rm -rf ~/pipe
-rm -f ~/.pipe-cli.json
-rm -rf ~/.config/pipe
-rm -rf ~/.local/share/pipe
-```
+- Put Directly 7️⃣ Number Command
+
+## Delete Irys Storage Node
+
