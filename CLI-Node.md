@@ -124,4 +124,6 @@ ls -a
 - Put Directly 7️⃣ Number Command
 
 ## Delete Irys Storage Node
-
+```
+sudo npm uninstall -g @irys/cli
+```
