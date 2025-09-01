@@ -55,7 +55,7 @@ irys fund 1000000 \
 * Take Faucet: [Ethereum_Sepolia_Faucet](https://sepolia-faucet.pk910.de/) :: If u have to do in another chain then take faucet of that network:
 * The fund amount is in `wei`
 * Replace `Private_key` with your actual credential (Without 0x)
-* Replace `RPC_URL` with your selected network (Link)[https://sepolia.drpc.org]
+* Replace `RPC_URL` with your selected network [Link](https://sepolia.drpc.org)
 
 <img width="1493" height="316" alt="image" src="https://github.com/user-attachments/assets/a5b83397-9be0-4204-89d9-b1c1fff419a8" />
 
