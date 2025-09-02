@@ -88,7 +88,8 @@ irys upload FILE_PATH \
 * Replace `PRIVATE_KEY` with your actual one (Without 0x)
 * Replace `RPC_URL` with your selected Network
 
-<img width="1038" height="211" alt="image" src="https://github.com/user-attachments/assets/a3a29264-ea9e-4872-9b4a-b7bf01a64b35" />
+<img width="1038" height="211" alt="481822238-a3a29264-ea9e-4872-9b4a-b7bf01a64b35" src="https://github.com/user-attachments/assets/f94c6784-8e0b-429e-82f0-ded7a1a7015b" />
+
 
 ### How t Get File Path in ur Local PC
 
